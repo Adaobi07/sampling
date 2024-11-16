@@ -20,26 +20,74 @@ The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+This survey aims to explore how age influences music preferences, particularly in how different age groups perceive popular music. It seeks to identify patterns in how individuals' tastes change over time and whether these shifts vary between generations. The goal is to understand if and how perceptions of popular music evolve as people age.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population
+The target population for this study consists of adults aged 18 and older who listen to music on a regular basis. This includes individuals from various age groups, backgrounds, and music consumption habits, ranging from young adults to older adults. The focus is on individuals who are familiar with popular music, as their perceptions are critical to understanding the influence of age on music preferences.
+
+Sampling Frame
+The sampling frame will include users of online music streaming platforms, social media communities, and forums where discussions around music are prevalent. Additionally, participants may be recruited through email lists, music-related social media groups, and academic or workplace networks to ensure a diverse range of responses across different age groups and demographics.
+
+Sampling Units
+The sampling units are individual respondents who are willing to participate in the survey. Each sampling unit will be an adult who fits the target population criteria, has access to the survey, and consents to provide information about their music preferences and perceptions.
+
+Observational Units
+The observational units are the responses collected from each individual survey participant. These responses will include quantitative data (e.g., ratings on a Likert scale) and qualitative data (e.g., open-ended responses about music preferences). Each respondent's answers will be analyzed to draw conclusions about the relationship between age and perceptions of popular music.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1.What is your age?
+
+Under 18
+18-24
+25-34
+35-44
+45-54
+55-64
+65 or older
+
+2.What is your gender?
+
+Male
+Female
+Non-binary/Other
+Prefer not to say
+ 
+3. What is your current occupation?
+
+Student
+Employed full-time
+Employed part-time
+Retired
+Unemployed
+
+What is your highest level of education?
+
+4. High school or less
+Some college/technical school
+Bachelor’s degree
+Graduate degree or higher
+
+5. Where do you primarily listen to music? (Select all that apply)
+
+Streaming services (e.g., Spotify, Apple Music)
+Radio
+Physical media (CDs, vinyl, etc.)
+YouTube
+Live concerts
+Other (please specify)
+How do you discover new music? (Select all that apply)
+
+6. Streaming service recommendations
+Social media
+Friends or family
+Radio
+Online reviews or music blogs
+TV shows, movies, or advertisements
 ```
 
 ## Rubric
