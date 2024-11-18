@@ -1,23 +1,34 @@
 # Assignment: Questionnaire Design (Part B)
 
 ## Requirements
+
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
+   
+I believe the sample is high quality because it is comprehensive and attempts to capture data from a broad range of demographics, there are potential biases that could affect the representativeness of this sample:
 
-    ```
-    write your answer here...
-    ```
-
+It may overrepresent younger, tech-savvy individuals who are more likely to use streaming services and social media while underrepresenting older adults who may prefer traditional media.
+To truly represent the target population, efforts should be made to reach older participants and those who are less digitally inclined, possibly through alternative distribution channels like email lists, offline communities, or even printed surveys.
+    
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
-
-    ```
-    write your answer here...
-    ```
+No, I believe my original survey is high-quality because it met most of the measures of a quality survey.
+  
+    
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
-    ```
-    write your answer here...
-    ```
+   No, the purpose of this survey could not be fully achieved through an observational study alone. Here is why:
+   
+1) Observational Studies and Their Limitations:
+An observational study involves passively observing participants without directly interacting with them or asking questions. Researchers collect data based on participants' natural behaviours, environments, or existing records.
+
+2) Understanding Subjective Perceptions:
+The goal of this research is to understand how age influences music preferences and perceptions of popular music. This involves gathering information about personal opinions, tastes, and subjective experiences, which are difficult to observe directly.
+
+3) Survey Questions Capture Self-Reported Data:
+The survey is designed to collect self-reported data, such as how often participants listen to music, where they discover new music and their opinions on whether popular music has improved or declined over the years.
+
+4) Age-Related Changes in Preferences:
+The research aims to explore whether and how music tastes change with age. Understanding this evolution requires asking individuals about their current preferences, past music tastes, and whether they feel their preferences have shifted over time.
 
 ## Why am I doing this assignment?
 
