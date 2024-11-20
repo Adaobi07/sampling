@@ -6,20 +6,50 @@ Sources: - Canadian General Social Survey on Giving, Volunteering, and Participa
 
 |                                                       | Canadian General Social Survey on Giving, Volunteering, and Participating, 2018 (cycle 33) | Canadian Election Study Online Survey, 2019 | Trophic niche flexibility in Glossophaga soricina: how nectar seeker sneaks an insect snack |
 |----------------|:--------------------|----------------|---------------------|
-| Sample type                                           |                                                                                            |                                             |                                                                                             |
-| Sample size                                           |                                                                                            |                                             |                                                                                             |
-| Target population                                     |                                                                                            |                                             |                                                                                             |
-| Sampling frame                                        |                                                                                            |                                             |                                                                                             |
-| Survey mode(s)                                        |                                                                                            |                                             |                                                                                             |
-| Timeline                                              |                                                                                            |                                             |                                                                                             |
-| Response rate                                         |                                                                                            |                                             |                                                                                             |
-| Weights                                               |                                                                                            |                                             |                                                                                             |
-| Data processing                                       |                                                                                            |                                             |                                                                                             |
-| Cleaning, imputation, etc.                            |                                                                                            |                                             |                                                                                             |
-| Sources of error                                      |                                                                                            |                                             |                                                                                             |
-| Limitations, known biases                             |                                                                                            |                                             |                                                                                             |
-| Citation                                              |                                                                                            |                                             |                                                                                             |
-| Links to any documentation or additional sources used |                                                                                            |                                             |                                                                                             |
+| Sample type                                           |                                                                                            |                                             | Convenience sample                                                                                       |
+| Sample size                                           |                                                                                            |                                             |   112 bats (73 females, 39 males)                                                                                           |
+
+| Target population                                     |                                                                                            |                                             | Wild Glossophaga soricina bats from Central and South America, representing natural populations.
+Captive Glossophaga soricina bats, representing laboratory-controlled environments for behavioral and echolocation studies.                                                                                            |
+
+| Sampling frame                                        |                                                                                            |                                             | Field Sampling: Bats were captured in the Área de Conservación de Guanacaste, Costa Rica, using mist nets.
+Captive Sampling: A colony housed at the University of Bristol, raised on plant-based diets.
+                                                                                            |
+| Survey mode(s)                                        |                                                                                            |                                             | Field Observations: Guano samples collected post-capture for DNA analysis.
+Laboratory Observations: Behavioral experiments and echolocation measurements in controlled flight rooms.                                                                                            |
+
+| Timeline                                              |                                                                                            |                                             |  Field Study: Conducted over a 7-week period from late May to early July 2009.
+Captive Study: Extended laboratory experiments, exact dates not specified but conducted after field studies.                                                                                           |
+
+| Response rate                                         |                                                                                            |                                             |   Field Study: 34% of captured bats (38 out of 112) produced usable fecal samples for dietary analysis.
+Captive Study: All 15 bats participated in experiments, but not all trials resulted in quantifiable data.                                                                                          |
+
+| Weights                                               |                                                                                            |                                             |   The study did not use weighting techniques                                                                                          |
+
+| Data processing                                       |                                                                                            |                                             | Field Samples:
+Fecal samples analyzed using DNA barcoding for dietary analysis.
+Prey species identified using mitochondrial gene sequences compared to the Barcode of Life Data System.
+Captive Samples:
+Video and audio recordings analyzed for echolocation behaviors.
+Measurements of flight paths, pulse intervals, and call frequencies.
+                                                                                            |
+| Cleaning, imputation, etc.                            |                                                                                            |                                             |     Data Cleaning: Removed low-quality or inconclusive DNA sequences and non-usable behavioral recordings.
+Imputation: No imputation for missing data; unrecorded behaviors or undetected prey were classified as unknown.                                                                                        |
+
+| Sources of error                                      |                                                                                            |                                             |   Field Study:
+Guano samples may not represent the full dietary range due to time constraints on sample collection.
+Limited reference sequences in the database could lead to unidentified prey species.
+Captive Study:
+Bats were naive to insect prey, so behavior may not fully replicate wild insectivory.
+Echolocation call intensities measured in flight rooms might underestimate wild behaviors.
+                                                                                          |
+| Limitations, known biases                             |                                                                                            |                                             |   Sample Bias:
+
+Field samples were from a single geographic location, which might not represent the broader population.
+Captive bats had generations of controlled diets, potentially altering natural behavior.                                                                                          |
+
+| Citation                                              |                                                                                            |                                             | Clare, E. L., Goerlitz, H. R., Drapeau, V. A., Holderied, M. W., Adams, A. M., Nagel, J., Dumont, E. R., Hebert, P. D. N., & Fenton, M. B. (2014). Trophic niche flexibility in Glossophaga soricina: How a nectar seeker sneaks an insect snack. Functional Ecology, 28(5), 632–641. https://doi.org/10.1111/1365-2435.12192                                                                                            |
+| Links to any documentation or additional sources used |                                                                                            |                                             |  https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2435.12192                                                                                           |
 
 ## Criteria
 
